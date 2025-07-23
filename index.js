@@ -1,5 +1,5 @@
 var code1 = 10
-console.log(code1 + 3)
+console.log(10 + 3)
 
 var code2 = 100 / 2 - 10
 
