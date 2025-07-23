@@ -10,5 +10,5 @@ var message = "The vault has been secured. The combination is:"
 
 var codeA = code1 + code2 + code3
 
-var codeB = (`${code1} + ${code2} + ${code3}`)
+var codeB = (`${code1} - ${code2} - ${code3}`)
 console.log(message + codeB)
